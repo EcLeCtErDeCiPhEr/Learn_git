@@ -18,11 +18,43 @@
 ### step 6 (Commit with the message "adding third.txt")
 ![learn_git_6](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git6.PNG?raw=true)
 
+### step 7 (Check out your commit with git log)
+![learn_git_7](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git7.PNG?raw=true)
 
-![alt text](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git13.jpg?raw=true)
+### step 8 (Create another file called fourth.txt.)
+![learn_git_8](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git8.PNG?raw=true)
 
-![learn git 13](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git13.PNG)
+### step 9 (Add fourth.txt to the staging area)
+![learn_git_9](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git9.PNG?raw=true)
 
-### How are you
-![learn git 13](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git13.PNG?raw=true)
-https:[image]//github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git4.PNG?raw=true
+### step 10 (Commit with the message "adding fourth.txt")
+![learn_git_10](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git10.PNG?raw=true)
+
+### step 11 (Remove the third.txt file)
+![learn_git_11](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git11.PNG?raw=true)
+
+## step 12 (Add this change to the staging area)
+![learn_git_13](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git13.PNG?raw=true)
+
+### step 13 (Commit with the message "removing third.txt")
+![learn_git_14](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git14.PNG?raw=true)
+
+### step 14 (Check out your commits using git log)
+![learn_git_15](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git15.PNG?raw=true)
+
+### step 15 (Change your global settings to core.pager=cat - you )
+![learn_git_16](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git16.PNG?raw=true)
+
+### step 16 (Write the appropriate command to list all the global)
+![learn_git_17](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git17.PNG?raw=true)
+
+
+
+
+
+
+
+
+
+
+
