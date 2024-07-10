@@ -33,7 +33,8 @@
 ### step 11 (Remove the third.txt file)
 ![learn_git_11](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git11.PNG?raw=true)
 
-## step 12 (Add this change to the staging area)
+## step 12 (Add this change to the staging area Using the command "git add)
+![learn_git_12](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git12.PNG?raw=true)
 ![learn_git_13](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git13.PNG?raw=true)
 
 ### step 13 (Commit with the message "removing third.txt")
