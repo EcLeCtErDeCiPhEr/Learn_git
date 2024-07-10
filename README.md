@@ -6,7 +6,7 @@
 ![learn_git_20](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git20.PNG?raw=true)
 
 ### step 3 (Create a file called third.txt)
-( ![image](https://github.com/EcLeCtErDeCiPhEr/Learn_git/assets/174363237/74afae69-a4de-4e37-9fdf-466a67efdcce)
+![image](https://github.com/EcLeCtErDeCiPhEr/Learn_git/assets/174363237/74afae69-a4de-4e37-9fdf-466a67efdcce)
 
 ![alt text](https://github.com/EcLeCtErDeCiPhEr/Learn_git/blob/main/learn_git13.jpg?raw=true)
 
